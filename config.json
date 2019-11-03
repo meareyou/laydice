@@ -1,0 +1,48 @@
+
+{
+
+ "Account": {
+     "Username": "********",
+     "Password": "********"
+     },
+ "Target Profit": "40",
+ "Target Win": "100",
+ "Lose Target": "0",
+ "Reset If Target Profit": "OFF",
+ "Reset If Target win": "OFF",
+ "Interval": "0",
+ "Config": [{
+
+     "Name Bet Set": " AH",
+     "Base Bet": "0.1",
+     "Max Bet": "2",
+     "Chance": "58",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "54.56",
+          "Max": "40"
+        },
+     "Bet": {
+          "Bet": "HI",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "1",
+              "If Win": "1"
+            }
+       },
+     "If Win": "1",
+     "If Lose": "1.5",
+     "Reset If Win": "1",
+     "Reset If Profit": "0.01",
+     "Interval": "1"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "OFF",
+       "If Balance": "200",
+       "Wallet Address": "DLGuWEwox4Ge69coZ9rjeXrtVUcXpT6Aa2",
+       "Amount": "100"
+      },
+  "User-Agent": "Android Phone / Chrome 65 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
+
+}
