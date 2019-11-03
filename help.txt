@@ -1,0 +1,8 @@
+Edit your config
+
+nano config.json
+Ctrl+x+y
+
+And then run the script
+
+python 999dice.py
