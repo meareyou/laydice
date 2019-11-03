@@ -1,0 +1,2 @@
+# laydice
+Premium script :,-)
